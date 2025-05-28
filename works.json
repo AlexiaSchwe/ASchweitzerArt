@@ -1,0 +1,347 @@
+{
+    "artworksAll": [
+        {
+            "name": "2020",
+            "image_url": "artworks/IMG_1704.JPG",
+            "filter_type": "painting",
+            "material": "Oil on Canvas",
+            "size": "",
+            "date": "2023"
+        },
+        {
+            "name": "Cat",
+            "image_url": "artworks/IMG_1705.JPG",
+            "filter_type": "painting",
+            "material": "Oil on Canvas",
+            "size": "",
+            "date": "2023"
+        },
+        {
+            "name": "Blues Clues",
+            "image_url": "artworks/IMG_2861.JPG",
+            "filter_type": "painting",
+            "material": "Oil on Canvas",
+            "size": "18in x 24in",
+            "date": "2024"
+        },
+        {
+            "name": "PS2 Crash Nitro Kart",
+            "image_url": "artworks/IMG_2862.JPG",
+            "filter_type": "painting",
+            "material": "Oil on Canvas",
+            "size": "18in x 24in",
+            "date": "2024"
+        },
+        {
+            "name": "Don't turn on the overhead, I can't see!",
+            "image_url": "artworks/IMG_2864.JPG",
+            "filter_type": "painting",
+            "material": "Oil on Canvas",
+            "size": "18in x 24in",
+            "date": "2024"
+        },
+        {
+            "name": "Tipping the Iceberg",
+            "image_url": "artworks/IMG_2865.JPG",
+            "filter_type": "painting",
+            "material": "Oil on Canvas",
+            "size": "18in x 24in",
+            "date": "2024"
+        },
+        {
+            "name": "Prequels (4)",
+            "image_url": "artworks/IMG_2867.JPG",
+            "filter_type": "study",
+            "material": "Oil on Board",
+            "size": "",
+            "date": "2024"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/IMG_2868.JPG",
+            "filter_type": "study",
+            "material": "Oil on Board",
+            "size": "",
+            "date": "2024"
+        },
+        {
+            "name": "Portrait",
+            "image_url": "artworks/IMG_2871.JPG",
+            "filter_type": "study",
+            "material": "Oil on Board",
+            "size": "",
+            "date": "2024"
+        },
+        {
+            "name": "Boys Night",
+            "image_url": "artworks/IMG_2890.JPG",
+            "filter_type": "painting",
+            "material": "Oil on Canvas",
+            "size": "",
+            "date": "2024"
+        },
+        {
+            "name": "FigNugget",
+            "image_url": "artworks/IMG_3074.JPG",
+            "filter_type": "painting",
+            "material": "Oil on Board",
+            "size": "",
+            "date": "2024"
+        },
+        {
+            "name": "Idiot! (1/2)",
+            "image_url": "artworks/IMG_3178.JPG",
+            "filter_type": "painting",
+            "material": "Oil on Canvas",
+            "size": "",
+            "date": "2024"
+        },
+        {
+            "name": "Idiot! (2/2)",
+            "image_url": "artworks/IMG_3177.JPG",
+            "filter_type": "painting",
+            "material": "Oil on Canvas",
+            "size": "",
+            "date": "2024"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/IMG_3179.JPG",
+            "filter_type": "painting",
+            "material": "Oil on Canvas",
+            "size": "15in x 15in",
+            "date": "2024"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/IMG_3487.JPG",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/IMG_3488.JPG",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/IMG_3489.JPG",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/IMG_3490.JPG",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/IMG_3491.JPG",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/IMG_3666.JPG",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/IMG_3668.JPG",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/IMG_3669.JPG",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/IMG_3670.JPG",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/IMG_3674.JPG",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/IMG_3667.JPG",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        }
+        
+    ],
+
+    "japan2025": [
+        {
+            "name": "Untitled",
+            "image_url": "artworks/IMG_3487.JPG",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/IMG_3488.JPG",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/IMG_3489.JPG",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/IMG_3490.JPG",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/IMG_3491.JPG",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/IMG_3666.JPG",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/IMG_3668.JPG",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/IMG_3669.JPG",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/IMG_3670.JPG",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/IMG_3674.JPG",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/IMG_3667.JPG",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        }
+    ],
+
+    "schoolWorks": [
+        {
+            "name": "2020",
+            "image_url": "artworks/IMG_1704.JPG",
+            "filter_type": "painting",
+            "material": "Oil on Canvas",
+            "size": "",
+            "date": "2023"
+        },
+        {
+            "name": "Cat",
+            "image_url": "artworks/IMG_1705.JPG",
+            "filter_type": "painting",
+            "material": "Oil on Canvas",
+            "size": "",
+            "date": "2023"
+        },
+        {
+            "name": "Blues Clues",
+            "image_url": "artworks/IMG_2861.JPG",
+            "filter_type": "painting",
+            "material": "Oil on Canvas",
+            "size": "18in x 24in",
+            "date": "2024"
+        },
+        {
+            "name": "PS2 Crash Nitro Kart",
+            "image_url": "artworks/IMG_2862.JPG",
+            "filter_type": "painting",
+            "material": "Oil on Canvas",
+            "size": "18in x 24in",
+            "date": "2024"
+        },
+        {
+            "name": "Don't turn on the overhead, I can't see!",
+            "image_url": "artworks/IMG_2864.JPG",
+            "filter_type": "painting",
+            "material": "Oil on Canvas",
+            "size": "18in x 24in",
+            "date": "2024"
+        },
+        {
+            "name": "Tipping the Iceberg",
+            "image_url": "artworks/IMG_2865.JPG",
+            "filter_type": "painting",
+            "material": "Oil on Canvas",
+            "size": "18in x 24in",
+            "date": "2024"
+        }
+    ]
+}
