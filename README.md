@@ -1,0 +1,2 @@
+# ASchweitzerArt
+Art Portfolio Website
