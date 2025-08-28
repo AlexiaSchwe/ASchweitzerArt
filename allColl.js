@@ -1,12 +1,28 @@
 document.addEventListener("DOMContentLoaded", function () {
     let worksData = [];
 
+    function adjustMaxWidth() {
+        const imgs = document.querySelectorAll('#container-id img');
+
+        imgs.forEach(img => {
+            if (window.innerWidth <= 600) {
+                img.style.width = 'auto';
+                img.style.maxWidth = '90%';
+                img.style.margin = '5%'
+            } else {
+                img.style.width = '500px';
+                img.style.maxWidth = '';
+            }
+        });
+    }
+
     // Fetch JSON data
     fetch('works.json')
         .then(response => response.json())
         .then(data => {
             worksData = data.artworksAll;
             renderProducts(worksData);
+            adjustMaxWidth();
         });
 
     function renderProducts(artworks) {
@@ -22,7 +38,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
         // Loop through each artwork and create a new column after every 3 items
         artworks.forEach((artwork, index) => {
-            // Create a new column after every 3 images
             if (index % 14 === 0) {
                 column = document.createElement('div');
                 column.classList.add('works-column');
@@ -82,3 +97,5 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     });
 });
+
+

@@ -1,12 +1,28 @@
 document.addEventListener("DOMContentLoaded", function () {
     let worksData = [];
 
+    function adjustMaxWidth() {
+        const imgs = document.querySelectorAll('#container-id img');
+
+        imgs.forEach(img => {
+            if (window.innerWidth <= 600) {
+                img.style.width = 'auto';
+                img.style.maxWidth = '90%';
+                img.style.margin = '5%'
+            } else {
+                img.style.width = '500px';
+                img.style.maxWidth = '';
+            }
+        });
+    }
+
     // Fetch JSON data
     fetch('works.json')
         .then(response => response.json())
         .then(data => {
             worksData = data.schoolWorks;
             renderProducts(worksData);
+            adjustMaxWidth();
         });
 
     function renderProducts(artworks) {

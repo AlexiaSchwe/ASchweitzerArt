@@ -36,6 +36,7 @@
 
 .btn-title-card {
     background-color: white;
+
     border: none;
     border-radius: 5px;
     transition: 0.6s;
@@ -102,8 +103,9 @@
     width: 100%;                 
     height: auto;                
     border-radius: 5px;
-    object-fit: cover;                   
+    object-fit: cover; 
 }
+
 
 /* WORKS OVERLAY */
 .overlay {
@@ -198,7 +200,6 @@ footer {
 
 
 
-
 /* HOME.HTML */
 
 .works-flexbox {
@@ -270,9 +271,29 @@ footer {
     transform: translate(-50%, -50%);
 }
 
-
-
-
-
-/* FONTS */
-
+@media (max-width: 600px) {
+    .works-collections-1, .works-collections-2, .works-collections-3 {
+        max-width: 80%;
+    }
+    .works-collections-gradientoverlay {
+        max-width: 100%;
+    }
+    .title-card-options {
+        max-width: 10%;
+    }
+    .title-card-items {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .title {
+        margin: 20px;
+    }
+    .btn{
+        text-align: center;
+        padding: 0px;
+        line-height: 40px;
+        background: linear-gradient(135deg, var(--c1, #ffffff1b) 20%, var(--c2, #b3b5bc) 80%) var(--x, 0)/ 200%;
+        border: none;
+    }
+}
