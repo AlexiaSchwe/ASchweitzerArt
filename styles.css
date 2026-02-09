@@ -90,6 +90,7 @@
     gap: 10px;                   
     max-width: 1224px;
     margin: auto;
+    justify-content: center;
     padding: 10px 0;
 }
 
@@ -211,7 +212,7 @@ footer {
 }
 
 .works-collections-1 {
-    background: url('artworks/IMG_3179.JPG');
+    background: url('artworks/20260205_191330.jpg');
     width: 800px; 
     height: 300px;
     border: solid;
@@ -233,7 +234,7 @@ footer {
 }
 
 .works-collections-3 {
-    background: url('artworks/IMG_3490.JPG');
+    background: url('artworks/20260205_190506.jpg');
     width: 800px; 
     height: 300px;
     border: solid;

@@ -106,7 +106,7 @@
         },
         {
             "name": "Untitled",
-            "image_url": "artworks/IMG_3179.JPG",
+            "image_url": "artworks/20260205_191330.jpg",
             "filter_type": "painting",
             "material": "Oil on Canvas",
             "size": "15in x 15in",
@@ -114,7 +114,7 @@
         },
         {
             "name": "Untitled",
-            "image_url": "artworks/IMG_3487.JPG",
+            "image_url": "artworks/20260205_190350.jpg",
             "filter_type": "study",
             "material": "Oil on Canvas",
             "size": "8.5in x 5.5in",
@@ -122,7 +122,7 @@
         },
         {
             "name": "Untitled",
-            "image_url": "artworks/IMG_3488.JPG",
+            "image_url": "artworks/20260205_190413.jpg",
             "filter_type": "study",
             "material": "Oil on Canvas",
             "size": "8.5in x 5.5in",
@@ -130,7 +130,7 @@
         },
         {
             "name": "Untitled",
-            "image_url": "artworks/IMG_3489.JPG",
+            "image_url": "artworks/20260205_190451.jpg",
             "filter_type": "study",
             "material": "Oil on Canvas",
             "size": "8.5in x 5.5in",
@@ -138,7 +138,7 @@
         },
         {
             "name": "Untitled",
-            "image_url": "artworks/IMG_3490.JPG",
+            "image_url": "artworks/20260205_190506.jpg",
             "filter_type": "study",
             "material": "Oil on Canvas",
             "size": "8.5in x 5.5in",
@@ -146,7 +146,7 @@
         },
         {
             "name": "Untitled",
-            "image_url": "artworks/IMG_3491.JPG",
+            "image_url": "artworks/20260205_190119.jpg",
             "filter_type": "study",
             "material": "Oil on Canvas",
             "size": "8.5in x 5.5in",
@@ -154,7 +154,7 @@
         },
         {
             "name": "Untitled",
-            "image_url": "artworks/IMG_3666.JPG",
+            "image_url": "artworks/20260205_190617.jpg",
             "filter_type": "study",
             "material": "Oil on Canvas",
             "size": "8.5in x 5.5in",
@@ -162,7 +162,7 @@
         },
         {
             "name": "Untitled",
-            "image_url": "artworks/IMG_3668.JPG",
+            "image_url": "artworks/20260205_190541.jpg",
             "filter_type": "study",
             "material": "Oil on Canvas",
             "size": "8.5in x 5.5in",
@@ -170,7 +170,7 @@
         },
         {
             "name": "Untitled",
-            "image_url": "artworks/IMG_3669.JPG",
+            "image_url": "artworks/20260205_190553.jpg",
             "filter_type": "study",
             "material": "Oil on Canvas",
             "size": "8.5in x 5.5in",
@@ -178,7 +178,7 @@
         },
         {
             "name": "Untitled",
-            "image_url": "artworks/IMG_3670.JPG",
+            "image_url": "artworks/20260205_190603.jpg",
             "filter_type": "study",
             "material": "Oil on Canvas",
             "size": "8.5in x 5.5in",
@@ -186,7 +186,7 @@
         },
         {
             "name": "Untitled",
-            "image_url": "artworks/IMG_3674.JPG",
+            "image_url": "artworks/20260205_190017.jpg",
             "filter_type": "study",
             "material": "Oil on Canvas",
             "size": "8.5in x 5.5in",
@@ -194,19 +194,114 @@
         },
         {
             "name": "Untitled",
-            "image_url": "artworks/IMG_3667.JPG",
+            "image_url": "artworks/20260205_190531.jpg",
             "filter_type": "study",
             "material": "Oil on Canvas",
             "size": "8.5in x 5.5in",
             "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/20260205_190626.jpg",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/20260205_190703.jpg",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/20260205_190737.jpg",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/20260205_190812.jpg",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },        
+        {
+            "name": "Untitled",
+            "image_url": "artworks/20260205_190653.jpg",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/20260205_190712.jpg",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/20260205_190823.jpg",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        }, 
+        {
+            "name": "Orange",
+            "image_url": "artworks/20260205_190208.jpg",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "6in x 4in",
+            "date": "2025"
+        },
+        {
+            "name": "Pear",
+            "image_url": "artworks/20260205_190227.jpg",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "6in x 4in",
+            "date": "2025"
+        },
+        {
+            "name": "Complementary",
+            "image_url": "artworks/20260205_185656.jpg",
+            "filter_type": "print",
+            "material": "Oil on Canvas",
+            "size": "6in x 4in",
+            "date": "2025"
+        },
+        {
+            "name": "Cowabummer!",
+            "image_url": "artworks/20260205_185749.jpg",
+            "filter_type": "print",
+            "material": "Linocut Relief Reduction",
+            "size": "6in x 4in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/20260205_190058.jpg",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8in x 6in",
+            "date": "2026"
         }
-        
     ],
 
     "japan2025": [
         {
             "name": "Untitled",
-            "image_url": "artworks/IMG_3487.JPG",
+            "image_url": "artworks/20260205_190350.jpg",
             "filter_type": "study",
             "material": "Oil on Canvas",
             "size": "8.5in x 5.5in",
@@ -214,7 +309,7 @@
         },
         {
             "name": "Untitled",
-            "image_url": "artworks/IMG_3488.JPG",
+            "image_url": "artworks/20260205_190413.jpg",
             "filter_type": "study",
             "material": "Oil on Canvas",
             "size": "8.5in x 5.5in",
@@ -222,7 +317,7 @@
         },
         {
             "name": "Untitled",
-            "image_url": "artworks/IMG_3489.JPG",
+            "image_url": "artworks/20260205_190451.jpg",
             "filter_type": "study",
             "material": "Oil on Canvas",
             "size": "8.5in x 5.5in",
@@ -230,7 +325,7 @@
         },
         {
             "name": "Untitled",
-            "image_url": "artworks/IMG_3490.JPG",
+            "image_url": "artworks/20260205_190506.jpg",
             "filter_type": "study",
             "material": "Oil on Canvas",
             "size": "8.5in x 5.5in",
@@ -238,7 +333,7 @@
         },
         {
             "name": "Untitled",
-            "image_url": "artworks/IMG_3491.JPG",
+            "image_url": "artworks/20260205_190119.jpg",
             "filter_type": "study",
             "material": "Oil on Canvas",
             "size": "8.5in x 5.5in",
@@ -246,7 +341,7 @@
         },
         {
             "name": "Untitled",
-            "image_url": "artworks/IMG_3666.JPG",
+            "image_url": "artworks/20260205_190617.jpg",
             "filter_type": "study",
             "material": "Oil on Canvas",
             "size": "8.5in x 5.5in",
@@ -254,7 +349,7 @@
         },
         {
             "name": "Untitled",
-            "image_url": "artworks/IMG_3668.JPG",
+            "image_url": "artworks/20260205_190541.jpg",
             "filter_type": "study",
             "material": "Oil on Canvas",
             "size": "8.5in x 5.5in",
@@ -262,7 +357,7 @@
         },
         {
             "name": "Untitled",
-            "image_url": "artworks/IMG_3669.JPG",
+            "image_url": "artworks/20260205_190553.jpg",
             "filter_type": "study",
             "material": "Oil on Canvas",
             "size": "8.5in x 5.5in",
@@ -270,7 +365,7 @@
         },
         {
             "name": "Untitled",
-            "image_url": "artworks/IMG_3670.JPG",
+            "image_url": "artworks/20260205_190603.jpg",
             "filter_type": "study",
             "material": "Oil on Canvas",
             "size": "8.5in x 5.5in",
@@ -278,7 +373,7 @@
         },
         {
             "name": "Untitled",
-            "image_url": "artworks/IMG_3674.JPG",
+            "image_url": "artworks/20260205_190017.jpg",
             "filter_type": "study",
             "material": "Oil on Canvas",
             "size": "8.5in x 5.5in",
@@ -286,10 +381,82 @@
         },
         {
             "name": "Untitled",
-            "image_url": "artworks/IMG_3667.JPG",
+            "image_url": "artworks/20260205_190531.jpg",
             "filter_type": "study",
             "material": "Oil on Canvas",
             "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/20260205_190626.jpg",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/20260205_190703.jpg",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/20260205_190737.jpg",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/20260205_190812.jpg",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },        
+        {
+            "name": "Untitled",
+            "image_url": "artworks/20260205_190653.jpg",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/20260205_190712.jpg",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/20260205_190823.jpg",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "8.5in x 5.5in",
+            "date": "2025"
+        }, 
+        {
+            "name": "Orange",
+            "image_url": "artworks/20260205_190208.jpg",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "6in x 4in",
+            "date": "2025"
+        },
+        {
+            "name": "Pear",
+            "image_url": "artworks/20260205_190227.jpg",
+            "filter_type": "study",
+            "material": "Oil on Canvas",
+            "size": "6in x 4in",
             "date": "2025"
         }
     ],
@@ -342,6 +509,22 @@
             "material": "Oil on Canvas",
             "size": "18in x 24in",
             "date": "2024"
+        },
+        {
+            "name": "Complementary",
+            "image_url": "artworks/20260205_185656.jpg",
+            "filter_type": "print",
+            "material": "Oil on Canvas",
+            "size": "6in x 4in",
+            "date": "2025"
+        },
+        {
+            "name": "Cowabummer!",
+            "image_url": "artworks/20260205_185749.jpg",
+            "filter_type": "print",
+            "material": "Linocut Relief Reduction",
+            "size": "6in x 4in",
+            "date": "2025"
         }
     ]
 }

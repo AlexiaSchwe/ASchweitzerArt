@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         // Loop through each artwork and create a new column after every 3 items
         artworks.forEach((artwork, index) => {
-            if (index % 14 === 0) {
+            if (index % 20 === 0) {
                 column = document.createElement('div');
                 column.classList.add('works-column');
                 worksContainer.appendChild(column);
