@@ -244,6 +244,17 @@ footer {
     position: relative;
 }
 
+.works-collections-4 {
+    background: url('artworks/20260507_122718.jpg');
+    width: 800px; 
+    height: 300px;
+    border: solid;
+    border-radius: 15px;
+    background-size: 1500px;
+    background-position: 20% 30%;
+    position: relative;
+}
+
 .works-collections-gradientoverlay {
     transition: 0.5s;
     background: linear-gradient(45deg, var(--c1, #4f55641b), var(--c2, #18171f) 51%, var(--c1, #4f55641b)) var(--x, 0)/ 200%;

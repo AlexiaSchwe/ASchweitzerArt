@@ -526,5 +526,23 @@
             "size": "6in x 4in",
             "date": "2025"
         }
+    ],
+    "enigmaSeries": [
+        {
+            "name": "Untitled",
+            "image_url": "artworks/20260227_185416.jpg",
+            "filter_type": "painting",
+            "material": "Oil on Canvas",
+            "size": "18in x 24in",
+            "date": "2026"
+        },
+        {
+            "name": "Untitled",
+            "image_url": "artworks/20260507_122718.jpg",
+            "filter_type": "painting",
+            "material": "Oil on Canvas",
+            "size": "4ft x 5ft",
+            "date": "2026"
+        }
     ]
 }
